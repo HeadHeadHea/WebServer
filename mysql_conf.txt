@@ -1,0 +1,9 @@
+hostname: localhost
+username: root
+passwd: 123456
+dbname: test
+port: 3306
+maxsize: 480
+minsize: 460
+timeout: 2000
+waittime: 10000
